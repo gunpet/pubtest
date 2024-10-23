@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: transparent;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StreamTeam in 3D</title>
+    <style>
+        html, body {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+}
+
+        h1 {
+            font-size: 6em;
+            color: white;
+            text-shadow: 
+                1px 1px 0px #000, 
+                2px 2px 0px #000, 
+                3px 3px 0px #000, 
+                4px 4px 0px #000, 
+                5px 5px 0px #000, 
+                6px 6px 0px #000, 
+                7px 7px 0px #000, 
+                8px 8px 10px rgba(0, 0, 0, 0.8);
+            letter-spacing: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>StreamTeam</h1>
+</body>
+</html>
